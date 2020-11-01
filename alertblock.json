@@ -1,0 +1,33 @@
+[
+	{
+		"type": "section",
+		"text": {
+			"type": "mrkdwn",
+			"text": "Please find alert details routed from external application"
+		}
+	},
+	{
+		"type": "divider"
+	},
+	{
+		"type": "section",
+		"text": {
+			"type": "mrkdwn",
+			"text": "Alert ID: 101\nAlert Type: Error\n Alert Description: Not Applicable"
+		}
+		
+	},
+	{
+		"type": "section",
+		"text": {
+			"type": "mrkdwn",
+			"text": "Alert ID: 102\nAlert Type: Warning\n Alert Description: Not Applicable"
+		}
+		
+	},
+	{
+		"type": "divider"
+	}
+	
+]
+
